@@ -45,3 +45,5 @@ sortContacts([
 //   "John Locke"
 // ]
 ```
+### Tip
+You can use the less-than and greater-than operators to compare two strings as [described here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String#Comparing_strings)
